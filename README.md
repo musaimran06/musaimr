@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Musa
-- 👀 I’m interested in coding, learning new skills, web developing
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: musaimr06@gmail.com
+# Hi, I'm Musa Imran 👋
 
-<!---
-musaimr/musaimr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Engineering student @ McMaster University — building things that scale.
+
+- 🔭 Currently building: Amazon FBA private label + AI automation systems
+- 🌱 Learning: Claude Code, agentic AI workflows, systems design
+- 💼 Founder in the making — documenting everything in public
+- 🌐 Portfolio: [musaimran.com](https://musaimran.com)
